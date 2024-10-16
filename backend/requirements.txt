@@ -3,6 +3,7 @@ uvicorn
 moviepy
 pydub
 speechrecognition
-google-cloud-speech
-google-generativeai
+pyaudio
+opencv-python
 rich
+google-generativeai
